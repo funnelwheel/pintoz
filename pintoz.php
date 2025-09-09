@@ -2,11 +2,11 @@
 /**
  * Plugin Name:     Pintoz
  * Plugin URI:      https://funnelwheel.com/pintoz
- * Description:     Cart Boost for WooCommerce delivers mobile-first, CRO-optimized site experiences that get you more customers, that spend more and subscribe longer.
+ * Description:     Fresh. Fast. Delivered. Powering Restaurants & Cloud Kitchens. Your Self-Hosted Storefront.
  * Author:          FunnelWheel
  * Author URI:      https://funnelwheel.com
  * Version:         0.1.0
- * Text Domain:     funnelwheel-cart-boost
+ * Text Domain:     pintoz
  * Domain Path:     /languages
  * License:         GPLv2 or later
  * License URI:     https://www.gnu.org/licenses/gpl-2.0.html
